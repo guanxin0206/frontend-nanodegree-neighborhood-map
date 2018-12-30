@@ -19,10 +19,5 @@ Credits to [Unsplash API][].
 
 ## Efforts & Takeouts
 
-To be continued.
 
----
-
-[Badges: Travis CI]: https://travis-ci.org/linesh-simplicity/frontend-nanodegree-neighborhood-map.svg?branch=master
-[Links: Travis CI]: https://travis-ci.org/linesh-simplicity/frontend-nanodegree-neighborhood-map
 [Unsplash API]: https://community.unsplash.com/developers 
