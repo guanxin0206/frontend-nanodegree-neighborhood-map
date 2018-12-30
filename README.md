@@ -1,4 +1,4 @@
-# Neighborhood Map [![][Badges: Travis CI]][Links: Travis CI]
+# Neighborhood Map
 
 ## Getting started
 
